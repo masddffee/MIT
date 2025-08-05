@@ -25,8 +25,8 @@
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/masddffee/MIT.git
-cd MIT
+git clone https://github.com/masddffee/Machine-Learning-Snake.git
+cd Machine-Learning-Snake
 ```
 
 **2. Install dependencies:**
